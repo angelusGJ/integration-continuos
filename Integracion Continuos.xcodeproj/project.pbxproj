@@ -397,7 +397,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: MacBook Pro de angelus (WK2Q356A9D)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Integracion Continuos/Integracion Continuos-Prefix.pch";
 				INFOPLIST_FILE = "Integracion Continuos/Integracion Continuos-Info.plist";
@@ -411,7 +411,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: MacBook Pro de angelus (WK2Q356A9D)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Integracion Continuos/Integracion Continuos-Prefix.pch";
 				INFOPLIST_FILE = "Integracion Continuos/Integracion Continuos-Info.plist";
@@ -479,6 +479,7 @@
 				A76996DF17769471009E9574 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A76996E017769471009E9574 /* Build configuration list for PBXNativeTarget "Integracion ContinuosTests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +488,7 @@
 				A76996E217769471009E9574 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
