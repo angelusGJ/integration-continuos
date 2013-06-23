@@ -207,6 +207,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = Autentia;
 				TargetAttributes = {
+					A76996A41776946F009E9574 = {
+						DevelopmentTeam = CXMH2DVBF2;
+					};
 					A76996CB17769470009E9574 = {
 						TestTargetID = A76996A41776946F009E9574;
 					};
@@ -394,6 +397,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Integracion Continuos/Integracion Continuos-Prefix.pch";
 				INFOPLIST_FILE = "Integracion Continuos/Integracion Continuos-Info.plist";
@@ -407,6 +411,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Integracion Continuos/Integracion Continuos-Prefix.pch";
 				INFOPLIST_FILE = "Integracion Continuos/Integracion Continuos-Info.plist";
